@@ -4,7 +4,7 @@ int main(){
     printf("Enter a number: ");
     scanf("%d", &n);
 
-    // Calculate the sum of first N natural numbers
+    
     for(int i = 1; i <= n; i++){
         sum += i;
     }
